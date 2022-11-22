@@ -1,0 +1,4 @@
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=sentimentanalysisdata;AccountKey=0cWGRthE5Udn8n2jlEfbM2IrVXbIbrs34stc1UmV+lV3bUY15+Jziw7ETbccGsQU2TAr/FoJ0Z/M+ASta6JQ8Q==;EndpointSuffix=core.windows.net"
+scraped_data_container_name: "scraped-data"
+preprocessed_data_continer_name: "preprocessed-data"
+source_folders: "C:/Users/tsamr/Downloads/AIDI/sem 2/AIDI 1006 AI Infrastructure and Arch/assignment/4"
